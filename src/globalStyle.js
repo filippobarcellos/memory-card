@@ -20,10 +20,4 @@ export default createGlobalStyle`
     border: none;
     background: transparent;
   }
-
-  #root {
-    --colorBlue: #32B1F4;
-    --colorRed: #F8424E;
-    --colorGreen: #2AB335;
-  }
 `;
