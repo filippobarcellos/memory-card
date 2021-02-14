@@ -1,5 +1,12 @@
+//game pages
+import Level from './Pages/Level';
+
 function App() {
-  return <h1>Viva Memory</h1>;
+  return (
+    <main>
+      <Level />
+    </main>
+  );
 }
 
 export default App;
