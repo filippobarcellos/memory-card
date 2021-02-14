@@ -11,13 +11,23 @@ export default createGlobalStyle`
     background-image: linear-gradient(-45deg, #ff1c1c, #ff5656);
     width: 100%;
     height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
   }
 
   button {
     border: none;
     background: transparent;
+  }
+
+  #root {
+    width: 100%;
+    height: 100vh;
+  }
+
+  main {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 `;
