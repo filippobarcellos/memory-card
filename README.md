@@ -2,9 +2,15 @@
 
 Projeto realizado de acordo como o challenge para à vaga de pessoa desenvolvedora frontend nível Júnior na VivaDecora.
 
-## Como executar
+- [Accesar o jogo online](https://peaceful-spence-97dc72.netlify.app/)
 
-1 - Clone ou baixe esse mesmo repositorio
-2 - yarn add ou npm install para instalar as dependencias do repositorio.
-3 - cd/pastaDoRepositorio
-4 - yarn start ou npm run start
+## How to run local
+
+1 `git clone https://github.com/filippobarcellos/memory-card`
+
+2 `cd/memory-card`
+
+3 `yarn start or npm install`
+
+4 `yarn start or npm start`
+
